@@ -65,7 +65,7 @@ After combining derived data from 5-2-Postprocessing-Filter-Valid-Lake.ipynb, we
 (1) load 4 GPKG files and combine them together
 (2) output with required attribute fields
 
-Two GPKG files (lake_polygons_test_withoutStreams.gpkg; lake_polygons_test_withStreams.gpkg) and a trained H5 model (trees_20230930-2149_AdaDelta_weightmap_focalTversky_0123_512.h5) can be found in 
+Two GPKG files (lake_polygons_test_withoutStreams.gpkg; lake_polygons_test_withStreams.gpkg) and a trained H5 model (ACM_20230930-2149_AdaDelta_weightmap_focalTversky_0123_512.h5) can be found in 
 our Google drive (https://drive.google.com/drive/folders/1jJ6C8yPBisopPUqVxStQaQlEeAIDbxPE?usp=sharing)
 
 Please email Jiawei Wei (authurwei@foxmail.com) if you have any question ：）
