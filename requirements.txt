@@ -1,0 +1,157 @@
+absl-py==1.4.0
+affine==2.4.0
+astunparse==1.6.3
+attrs==23.1.0
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+backports.cached-property==1.0.2
+build==0.10.0
+CacheControl==0.12.14
+cachetools==5.3.1
+certifi==2023.7.22
+charset-normalizer==3.2.0
+cleo==2.0.1
+click==8.1.7
+click-plugins==1.1.1
+cligj==0.7.2
+colorama @ file:///C:/b/abs_a9ozq0l032/croot/colorama_1672387194846/work
+comm @ file:///home/conda/feedstock_root/build_artifacts/comm_1691044910542/work
+crashtest==0.4.1
+cycler==0.11.0
+dacite==1.8.1
+debugpy @ file:///C:/ci/debugpy_1637091911212/work
+decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
+distlib==0.3.7
+dulwich==0.21.5
+entrypoints @ file:///C:/ci/entrypoints_1649926659561/work
+filelock==3.12.2
+Fiona @ file:///D:/Software/anaconda/envs/ACMtensorflow/Lib/site-packages/Fiona-1.8.21-cp37-cp37m-win_amd64.whl#sha256=b0dcebaf5f68da5a95f4fed98857a11b2de9bc88aaabd333a4b717b35dfbe415
+flatbuffers==23.5.26
+fonttools==4.38.0
+gast==0.4.0
+GDAL @ file:///D:/Software/anaconda/envs/ACMtensorflow/Lib/site-packages/GDAL-3.4.2-cp37-cp37m-win_amd64.whl#sha256=f85da79cdf1f7f9e20a3cc9c66d68dc72fc6a6eeb389b0661257fe8a4965ed24
+geopandas==0.10.2
+google-auth==2.22.0
+google-auth-oauthlib==0.4.6
+google-pasta==0.2.0
+grpcio==1.57.0
+h5py==3.8.0
+html5lib==1.1
+htmlmin==0.1.12
+idna==3.4
+ImageHash==4.3.1
+imageio==2.31.2
+imgaug==0.4.0
+importlib-metadata==6.7.0
+importlib-resources==5.12.0
+installer==0.7.0
+ipykernel @ file:///C:/b/abs_21ykzkm7y_/croots/recipe/ipykernel_1662361803478/work
+ipython @ file:///C:/Windows/TEMP/abs_45b5zb1l7q/croots/recipe/ipython_1659529855872/work
+ipywidgets @ file:///home/conda/feedstock_root/build_artifacts/ipywidgets_1690877070294/work
+jaraco.classes==3.2.3
+jedi @ file:///C:/ci/jedi_1644297241925/work
+Jinja2==3.1.2
+joblib==1.3.2
+jsonschema==4.17.3
+jupyter_client @ file:///C:/b/abs_d8fk_kz9zk/croot/jupyter_client_1676330195659/work
+jupyter_core @ file:///C:/b/abs_b8r5lb5eus/croot/jupyter_core_1668084445779/work
+jupyterlab-widgets @ file:///home/conda/feedstock_root/build_artifacts/jupyterlab_widgets_1688489450369/work
+keras==2.11.0
+keyring==23.13.1
+kiwisolver==1.4.5
+libclang==16.0.6
+lockfile==0.12.2
+Markdown==3.4.4
+MarkupSafe==2.1.3
+matplotlib==3.5.3
+matplotlib-inline @ file:///C:/ci/matplotlib-inline_1661934089728/work
+more-itertools==9.1.0
+msgpack==1.0.5
+multimethod==1.9.1
+munch==4.0.0
+nest-asyncio @ file:///C:/b/abs_3a_4jsjlqu/croot/nest-asyncio_1672387322800/work
+networkx==2.6.3
+numpy==1.21.6
+oauthlib==3.2.2
+opencv-python==4.8.0.76
+opt-einsum==3.3.0
+packaging @ file:///C:/b/abs_cfsup8ur87/croot/packaging_1671697442297/work
+pandas==1.3.5
+pandas-profiling==3.6.6
+parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
+patsy==0.5.3
+pexpect==4.8.0
+phik==0.12.3
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+Pillow==9.5.0
+pkginfo==1.9.6
+pkgutil_resolve_name==1.3.10
+platformdirs==3.10.0
+poetry==1.5.1
+poetry-core==1.6.1
+poetry-plugin-export==1.4.0
+prompt-toolkit @ file:///C:/b/abs_6coz5_9f2s/croot/prompt-toolkit_1672387908312/work
+protobuf==3.19.6
+psutil @ file:///C:/Windows/Temp/abs_b2c2fd7f-9fd5-4756-95ea-8aed74d0039flsd9qufz/croots/recipe/psutil_1656431277748/work
+ptyprocess==0.7.0
+pyasn1==0.5.0
+pyasn1-modules==0.3.0
+pydantic==1.10.12
+Pygments @ file:///opt/conda/conda-bld/pygments_1644249106324/work
+pyparsing==3.1.1
+pyproj @ file:///D:/Software/anaconda/envs/ACMtensorflow/Lib/site-packages/pyproj-3.2.1-cp37-cp37m-win_amd64.whl#sha256=f2eb0ee7e4183c1c4e2f450cccff09734b59ff929619bad3a4df97a87e3a3d1f
+pyproject_hooks==1.0.0
+pyrsistent==0.19.3
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz==2023.3
+PyWavelets==1.3.0
+pywin32==305.1
+pywin32-ctypes==0.2.2
+PyYAML==6.0.1
+pyzmq==19.0.2
+rapidfuzz==2.15.1
+rasterio @ file:///D:/Software/anaconda/envs/ACMtensorflow/Lib/site-packages/rasterio-1.2.10-cp37-cp37m-win_amd64.whl#sha256=820e8701231c4e426fa29df964b75c1d8d076ec03f31b57667f385a7aca45f65
+requests==2.31.0
+requests-oauthlib==1.3.1
+requests-toolbelt==1.0.0
+rsa==4.9
+Rtree @ file:///D:/Software/anaconda/envs/ACMtensorflow/Lib/site-packages/Rtree-1.0.0-cp37-cp37m-win_amd64.whl#sha256=d695241debeb3496b0669f0d8f0416e11d48853df1acff9df0a9f14f345cdea1
+scikit-image==0.19.3
+scikit-learn==1.0.2
+scipy==1.7.3
+seaborn==0.12.2
+Shapely @ file:///D:/Software/anaconda/envs/ACMtensorflow/Lib/site-packages/Shapely-1.8.1.post1-cp37-cp37m-win_amd64.whl#sha256=1a7b1e9695cc44fd1c590980e4615735bd117827b9c4572b0166c6aae344def6
+shellingham==1.5.3
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+snuggs==1.4.7
+statsmodels==0.13.5
+tangled-up-in-unicode==0.2.0
+tensorboard==2.11.2
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.1
+tensorflow==2.11.0
+tensorflow-estimator==2.11.0
+tensorflow-intel==2.11.0
+tensorflow-io-gcs-filesystem==0.31.0
+termcolor==2.3.0
+threadpoolctl==3.1.0
+tifffile==2021.11.2
+tomli==2.0.1
+tomlkit==0.12.1
+tornado @ file:///C:/ci/tornado_1662476933490/work
+tqdm==4.66.1
+traitlets @ file:///C:/b/abs_e5m_xjjl94/croot/traitlets_1671143896266/work
+trove-classifiers==2023.8.7
+typeguard==2.13.3
+typing_extensions==4.7.1
+urllib3==1.26.16
+virtualenv==20.24.3
+visions==0.7.5
+wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
+webencodings==0.5.1
+Werkzeug==2.2.3
+widgetsnbextension @ file:///home/conda/feedstock_root/build_artifacts/widgetsnbextension_1688504439014/work
+wincertstore==0.2
+wordcloud==1.9.2
+wrapt==1.15.0
+ydata-profiling==4.5.1
+zipp==3.15.0
